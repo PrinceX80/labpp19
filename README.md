@@ -34,3 +34,7 @@ Sedangkan **GitHub** adalah platform untuk menyimpan repositori Git, serta melak
 1. Duplikat repository LABPP19 ini ke folder repository kalian di GitHub.
 2. Lakukan pengumpulan tugas ke repository LABPP19 milik kalian (yang tadi sudah diduplikasi).
 3. Lanjutkan dengan menggabung repo LABPP19 kalian (yang sudah berisi file baru) ke repo LABPP19 original dengan cara Pull Request.
+
+## Bagaimana cara mengupulkan tugas di repo ini?
+1. Jika anda sebelumnya belum pernah mengumpulkan tugas:
+2. Jika anda sudah pernah mengumpulkan tugas:
