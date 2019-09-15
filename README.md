@@ -36,5 +36,5 @@ Sedangkan **GitHub** adalah platform untuk menyimpan repositori Git, serta melak
 3. Lanjutkan dengan menggabung repo LABPP19 kalian (yang sudah berisi file baru) ke repo LABPP19 original dengan cara Pull Request.
 
 ## Bagaimana cara mengupulkan tugas di repo ini?
-1. Jika anda sebelumnya belum pernah mengumpulkan tugas:
-2. Jika anda sudah pernah mengumpulkan tugas:
+- Klik [disini](https://github.com/farhanr/labpp19/wiki/I-never-did-it-before!) jika sebelumnya **belum** pernah mengumpulkan tugas.
+- Klik [disini](https://github.com/farhanr/labpp19/wiki/I-already-did-it!) jika **sudah** pernah mengumpulkan tugas.
