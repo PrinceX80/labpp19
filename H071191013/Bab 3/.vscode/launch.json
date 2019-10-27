@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasPratikum5",
+            "request": "launch",
+            "mainClass": "TugasPratikum5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasPratikum1",
+            "request": "launch",
+            "mainClass": "TugasPratikum1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasPraktikum1",
+            "request": "launch",
+            "mainClass": "TugasPraktikum1"
+        }
+    ]
+}
